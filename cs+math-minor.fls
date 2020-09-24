@@ -1,0 +1,153 @@
+PWD C:\Users\willisb\Documents\GitHub\math
+INPUT C:\Users\willisb\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT cs+math-minor.tex
+OUTPUT cs+math-minor.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\mathptmx.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\mathptmx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype-pdftex.def
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.cfg
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\babel.def
+INPUT C:\Program Files\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\american.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\american.ldf
+INPUT C:\Program Files\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT cs+math-minor.aux
+INPUT cs+math-minor.aux
+OUTPUT cs+math-minor.aux
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\microtype\mt-ptm.cfg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlztmcm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlztmcm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omsztmcm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omsztmcm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxztmcm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxztmcm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Users\willisb\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1ptm.fd
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
+OUTPUT cs+math-minor.pdf
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\willisb\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT cs+math-minor.aux
+INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
