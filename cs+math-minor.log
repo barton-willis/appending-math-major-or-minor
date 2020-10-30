@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.28)  5 OCT 2020 10:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.28)  29 OCT 2020 13:59
 entering extended mode
 **./cs+math-minor.tex
 (cs+math-minor.tex
@@ -392,172 +392,23 @@ LaTeX Info: Redefining \nameref on input line 72.
 \@outlinefile=\write4
 \openout4 = `cs+math-minor.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 72.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2),
-(microtype)             factor: 1100.
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 72.
-Package microtype Info: Tracking enabled.
-Package microtype Info: Using default tracking set `smallcaps'.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: Adjustment of character kerning enabled.
-Package microtype Info: Using default kerning set `alltext'.
 
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-)
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(46.97505pt, 520.3449pt, 46.97505pt)
-* v-part:(T,H,B)=(46.97505pt, 701.01988pt, 46.97505pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=520.3449pt
-* \textheight=701.01988pt
-* \oddsidemargin=-25.29494pt
-* \evensidemargin=-25.29494pt
-* \topmargin=-62.29494pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+cs+math-minor.tex:72: I can't write on file `cs+math-minor.pdf'.
+Please type another file name for output
+cs+math-minor.tex:72: Emergency stop.
+<to be read again> 
+                   \edef 
+l.72 \begin{document}
+                     
+*** (job aborted, file error in nonstop mode)
 
-<unk-logo.png, id=3, 190.7125pt x 111.41624pt>
-File: unk-logo.png Graphic file (type png)
-<use unk-logo.png>
-Package pdftex.def Info: unk-logo.png  used on input line 75.
-(pdftex.def)             Requested size: 47.678pt x 27.85399pt.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 83.
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ztmcm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 83.
-
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 83.
-
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/psnfss\omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 83.
-
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 8
-3.
-
-(C:\Users\willisb\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 83.
- [1
-
-{C:/Users/willisb/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./unk-logo.pn
-g>]
-File: unk-logo.png Graphic file (type png)
-<use unk-logo.png>
-Package pdftex.def Info: unk-logo.png  used on input line 153.
-(pdftex.def)             Requested size: 47.678pt x 27.85399pt.
-
-[2] [3]
-File: unk-logo.png Graphic file (type png)
-<use unk-logo.png>
-Package pdftex.def Info: unk-logo.png  used on input line 240.
-(pdftex.def)             Requested size: 47.678pt x 27.85399pt.
- [4]
-File: unk-logo.png Graphic file (type png)
-<use unk-logo.png>
-Package pdftex.def Info: unk-logo.png  used on input line 305.
-(pdftex.def)             Requested size: 47.678pt x 27.85399pt.
- [5]
-File: unk-logo.png Graphic file (type png)
-<use unk-logo.png>
-Package pdftex.def Info: unk-logo.png  used on input line 363.
-(pdftex.def)             Requested size: 47.678pt x 27.85399pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 438.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 438.
- (cs+math-minor.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 438.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 438.
-Package rerunfilecheck Info: File `cs+math-minor.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 438.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 9096 strings out of 481212
- 141917 string characters out of 2915721
- 468389 words of memory out of 3000000
- 24408 multiletter control sequences out of 15000+200000
- 568538 words of font info for 132 fonts, out of 3000000 for 9000
+ 8658 strings out of 481212
+ 134910 string characters out of 2915721
+ 458307 words of memory out of 3000000
+ 24133 multiletter control sequences out of 15000+200000
+ 535595 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,8n,42p,543b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/f
-onts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/
-utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on cs+math-minor.pdf (6 pages, 81809 bytes).
-PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 33286 words of extra memory for PDF output out of 35830 (max. 10000000)
-
+ 43i,0n,42p,223b,91s stack positions out of 5000i,500n,10000p,200000b,50000s
+cs+math-minor.tex:72:  ==> Fatal error occurred, no output PDF file produced!
