@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}
+\documentclass[10pt]{article}
 \usepackage{fourier}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
@@ -10,7 +10,10 @@
 \usepackage{enumitem}
 \setlist{nosep}
 
-
+\usepackage{caption}
+\usepackage{tabularray}
+\UseTblrLibrary{booktabs}
+\usepackage{wrapfig,lipsum,booktabs}
 % see https://www.unk.edu/ccr/marketing-advertising/branding-and-identity-marks/files/UNK-graphics-standards-quick-guide.pdf
 
 \definecolor{unkblue}{HTML}{002F6C}
@@ -86,7 +89,7 @@ email or phone: \href{mailto:willisb@unk.edu}{willisb@unk.edu} or 308-865-8868.}
 anticipated, but  is subject to change.}
 \newcommand{\myheading}{
 \begin{flushleft}
-\includegraphics[scale=0.35]{unk-logo}\\
+\includegraphics[scale=0.3]{unk-logo}\\
 \setcounter{footnote}{0}
 \vspace{0.25in}
  \textcolor{unkblue}{Department of Mathematics and Statistics, Discovery Hall} \\
@@ -97,39 +100,65 @@ anticipated, but  is subject to change.}
 \newcommand{\bt}[1]{\textbf{#1}}
 
 
-\newcommand{\mathminor}{
-  \begin{center}
-   \begin{tabular}[h]{| l | l | l|} 
-      \hline
-      \textbf{Year} & \textbf{Fall}         &  \textbf{Spring}  \\ \hline 
-      First & \calconeshort & \calctwoshort, \linearshort \\  \hline
-      Second &  \appliedstatshort{} &  \foundationsshort \\ \hline
-      Third &    \discreteshort              &  \\ \hline
-      \end{tabular}
-      \end{center}}
+\newcommand{\mathminor}{      
+\begin{table}[h]
+  \caption*{Suggested Math Minor program of study}
+   \center
+  \begin{tblr}{
+      colspec={lll},
+      row{1}={font=\bfseries},
+      column{1}={font=\itshape},
+      row{even}={bg=gray!10},
+    }
+     Year        & Fall  & Spring   \\
+    \toprule
+    First & \calconeshort  & \calctwoshort, \linearshort  \\
+    Second & STAT 235 & MATH 250  \\
+    Third & MATH 414 & \\
+    \bottomrule
+  \end{tblr}
+\end{table}}
 
 \newcommand{\mathminorALT}{
-\begin{center}
-   \begin{tabular}[h]{| l | l | l|} 
-      \hline
-       \textbf{Year}          & \textbf{Fall}         &  \textbf{Spring}  \\ \hline 
-      First & \calconeshort & \calctwoshort{}  \\  \hline
-      Second &  \calcthreeshort{},  \foundationsshort{}  & \diffeqshort \\ \hline
-         \end{tabular}
-      \end{center}}
+\begin{table}[h]
+ \caption*{Suggested Math Minor program of study}
+   \center
+  \begin{tblr}{
+      colspec={lll},
+      row{1}={font=\bfseries},
+      column{1}={font=\itshape},
+      row{even}={bg=gray!10},
+    }
+     Year        & Fall  & Spring   \\
+    \toprule      
+      First & \calconeshort & \calctwoshort{}  \\  
+      Second &  \calcthreeshort{},  \foundationsshort{}  & \diffeqshort \\
+        \bottomrule
+  \end{tblr}
+   \end{table}}
       
 \newcommand{\mathminorALTALT}{
-\begin{center}
-   \begin{tabular}[h]{| l | l | l|} 
-      \hline
-       \textbf{Year}          & \textbf{Fall}         &  \textbf{Spring}  \\ \hline 
-      First & \calconeshort & \calctwoshort{}  \\  \hline
-      Second &  \foundationsshort{}  &  math elective \\ \hline
-      Third &  math elective   &  math elective  (if needed) \\ \hline
-         \end{tabular}
-      \end{center}}
+  \begin{table}[h]
+   \caption*{Suggested Math Minor program of study}
+   \center
+  \begin{tblr}{
+      colspec={lll},
+      row{1}={font=\bfseries},
+      column{1}={font=\itshape},
+      row{even}={bg=gray!10},
+    }
+     Year        & Fall  & Spring   \\
+    \toprule      
+        First & \calconeshort & \calctwoshort{}  \\  
+      Second &  \foundationsshort{}  &  math elective \\ 
+      Third &  math elective   &  math elective  (if needed) \\ 
+            \bottomrule
+  \end{tblr}
+         \end{table}}
+         
+
       
-\newcommand{\mathBS}{
+\newcommand{\mathBSOLD}{
      \begin{center}
          \begin{tabular}[h]{| l | l | l|} 
             \hline
@@ -141,19 +170,48 @@ anticipated, but  is subject to change.}
          \end{tabular}
 \end{center}}
 
+\newcommand{\mathBS}{      
+\begin{table}[ht]
+ \caption*{Suggested Math B.S. program of study}
+\center
+  \begin{tblr}{
+      colspec={lll},
+      row{1}={font=\bfseries},
+      column{1}={font=\itshape},
+      row{even}={bg=gray!10},
+    }
+     Year        & Fall  & Spring   \\
+    \toprule
+    First & \calconeshort  & \calctwoshort, \linearshort  \\
+    Second & \calcthreeshort{}, \foundationsshort & \diffeqshort, math elective \\
+     Third & \advancedcalcshort              &  \complexshort{}\\ \hline
+      Fourth & math elective &  \abstractalgebrashort  \\ 
+    \bottomrule
+  \end{tblr}
+\end{table}}
+
+
 \newcommand{\statMinor}{
-     \begin{center}
-         \begin{tabular}[h]{| l | l | l|} 
-            \hline
-            \textbf{Year}           & \textbf{Fall}         &  \textbf{Spring}  \\ \hline 
-            First & \calconeshort{}  & \calctwoshort \\  \hline
-            Second &  \appliedstatshort &  elective \\ \hline
-            Third &           &  \statisticsshort \\ \hline
-                  \end{tabular}
-\end{center}}
+ \begin{table}[ht]
+  \caption*{Suggested Statistics Minor program of study}
+\center
+  \begin{tblr}{
+      colspec={lll},
+      row{1}={font=\bfseries},
+      column{1}={font=\itshape},
+      row{even}={bg=gray!10},
+    }
+      Year        & Fall  & Spring   \\
+    \toprule    
+            First & \calconeshort{}  & \calctwoshort \\ 
+            Second &  \appliedstatshort &  elective \\ 
+            Third &           &  \statisticsshort \\
+       \bottomrule
+  \end{tblr}
+\end{table}}
 \usepackage[final]{microtype}
 \usepackage[american]{babel}
-\usepackage[letterpaper, margin=0.5in]{geometry}
+\usepackage[letterpaper, margin=0.75in]{geometry}
 
 
 \begin{document}
@@ -197,17 +255,8 @@ your academic advisor will help you build a
 four-year plan for earning a minor in mathematics that fits with 
 your goals and other classes.  If you start on a path toward earning a math minor, but later decide to 
 earn a Mathematics B.S., all the mathematics and statistics  classes listed here 
-will count toward the B.S. degree.
-
-\vspace{-0.1in}
-\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
-
-\begin{center}
+will count toward the B.S. degree. 
 \mathminor
-\end{center}
-
-
- 
 
 
 \newpage
@@ -263,26 +312,22 @@ as well providing you with a high level of mathematical understanding.
   \item \advancedcalc
 \end{itemize}
 
-
-
 \subsubsection*{\textcolor{black}{For your  Math Electives take}}
 \begin{itemize}
 \item \discrete
 \item \statistics
 \end{itemize}
-\vspace{0.1in}
 These are the classes that we recommend for a computer science major.
 Your academic advisor can assist you with choosing alternatives 
 to \discreteshort{} and \statisticsshort{}. Additionally, your 
 academic advisor help you build a four-year plan for earning a 
 Mathematics B.S that fits with your goals and other classes.
+ \mathBS
+%\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}\vspace{-0.2in}
 
 
 
-\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
-   \mathBS
 
-\vfill 
 \newpage
 
 %----Cyber Security Operations Comprehensive, Bachelor of Science
@@ -326,9 +371,7 @@ a minor in mathematics that fits with your goals and other classes.
 If you start on a path toward earning a math minor, but latter decide to earn a  
 Mathematics B.S., all the mathematics and statistics  
 classes listed here will count toward the B.S. degree.
-
-\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
-
+%\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}\vspace{-0.2in}
 \mathminor
 
 
@@ -380,10 +423,6 @@ fits with your goals and other classes. If you start on a path
 toward earning  a math minor, but latter decide to earn a 
 Mathematics B.S., all the math classes listed here will count 
 toward the B.S. degree.
-
-
-\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
-
 \mathminorALT
 
 
@@ -542,14 +581,10 @@ at least six credits from
 \item \statistics
 \item \statisticsII
 \end{itemize}
-\vspace{0.1in}
-
-
-\vspace{-0.1in}
-\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
-
-\begin{center}
+%\vspace{-0.1in}
+%\subsubsection*{\textcolor{black}{Suggested mathematics course sequence}}
 \statMinor
-\end{center}
+
+
 
 \end{document}
